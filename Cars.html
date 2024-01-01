@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h2>
+            updating array
+        </h2>
+        <p id = "demo"></p>
+        <script>
+            cars = ["Saab", "Mercedes", "Toyota"];
+            alert("Cars sold out: " +cars);
+            car1 = prompt("Enter car: ")
+            car2 = prompt("Enter car: ")
+            car3 = prompt("Enter car: ")
+            cars = [car1, car2, car3];
+            alert("new cars:" +cars);
+            document.getElementById("demo").innerHTML = "New stock:" +cars;
+
+        </script>
+    </body>
+</html>
