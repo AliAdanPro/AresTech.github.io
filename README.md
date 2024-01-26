@@ -6,7 +6,6 @@ https://aliadanpro.github.io/AresTech.github.io/
 ## Languages Used
 * HTML
 * CSS
-* JavaScript
 ## Features
 It has multiple web pages for Home, about us, catalogue and contact us. It consists of hovering buttons and animations like fade-in, etc.
 
